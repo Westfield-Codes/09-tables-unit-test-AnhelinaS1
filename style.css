@@ -21,3 +21,8 @@ ul {
 table, tr, th, td {
   border: 1;
 }
+td:nth-child(3) img{
+  width:200px;
+
+
+}
